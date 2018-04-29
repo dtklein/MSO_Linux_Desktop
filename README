@@ -1,0 +1,9 @@
+To build this package, you should be using an Ubuntu, Debian or similar system. Navigate to the parent folder and issue the command:
+
+	dpkg-deb -b ./microsoft-office-online/ 
+
+This should yeild an installable package called "microsoft-office-online.deb". You can then install this package with the command 
+
+	dpkg -i ./microsoft-office-online.deb
+
+This will add a menu to your application menu under LXDE, Gnome, etc that gives you direct launchers for the various applications in this suite. 

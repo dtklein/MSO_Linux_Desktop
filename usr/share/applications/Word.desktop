@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://office.live.com/start/word.aspx"
+GenericName=Microsoft Word
+Comment[en_US]=Microsoft Word
+Icon=/usr/share/icons/Word.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office Word

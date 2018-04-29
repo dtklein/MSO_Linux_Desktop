@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://office.live.com/start/excel.aspx"
+GenericName=Microsoft Excel
+Comment[en_US]=Microsoft Excel
+Icon=/usr/share/icons/Excel.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office Excel

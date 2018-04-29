@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://web.skype.com/?source=owa"
+GenericName=Microsoft Office Skype
+Comment[en_US]=Microsoft Office Skype
+Icon=/usr/share/icons/Skype.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office Skype

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://onedrive.live.com/"
+GenericName=Microsoft OneDrive
+Comment[en_US]=Microsoft OneDrive
+Icon=/usr/share/icons/OneDrive.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office OneDrive

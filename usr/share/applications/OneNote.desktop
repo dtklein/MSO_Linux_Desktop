@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://www.onenote.com/notebooks"
+GenericName=Microsoft OneNote
+Comment[en_US]=Microsoft OneNote
+Icon=/usr/share/icons/OneNote.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office OneNote

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://calendar.live.com/calendar/calendar.aspx"
+GenericName=Microsoft Outlook Calendar
+Comment[en_US]=Microsoft Outlook Calendar
+Icon=/usr/share/icons/Outlook_Calendar.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office Calendar

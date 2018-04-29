@@ -1,0 +1,13 @@
+#!/bin/bash
+
+MENU="/usr/share/desktop-directories/lxde-microsoft-office-online.directory" ;
+
+for NAME in Calendar Excel Flow Mail OneDrive OneNote People PowerPoint Skype Sway Tasks Word ; do
+	FILE="/usr/share/applications/${NAME}.desktop" ;
+	xdg-desktop-menu \
+		install \
+		--novendor  \
+		${MENU} \
+		${FILE} ;
+done
+

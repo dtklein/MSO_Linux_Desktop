@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://sway.com/"
+GenericName=Microsoft Sway
+Comment[en_US]=Microsoft Sway
+Icon=/usr/share/icons/Sway.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office Sway

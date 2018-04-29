@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/x-www-browser --new-window "https://office.live.com/start/powerpoint.aspx"
+GenericName=Microsoft PowerPoint
+Comment[en_US]=Microsoft PowerPoint
+Icon=/usr/share/icons/PowerPoint.PNG
+Categories=Microsoft Office Online
+Name=Microsoft Office PowerPoint
